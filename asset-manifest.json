@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IncrDecr-App/static/css/main.e7468afd.css",
+    "main.js": "/IncrDecr-App/static/js/main.d9a8b6cf.js",
+    "index.html": "/IncrDecr-App/index.html",
+    "main.e7468afd.css.map": "/IncrDecr-App/static/css/main.e7468afd.css.map",
+    "main.d9a8b6cf.js.map": "/IncrDecr-App/static/js/main.d9a8b6cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7468afd.css",
+    "static/js/main.d9a8b6cf.js"
+  ]
+}
